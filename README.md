@@ -1,4 +1,4 @@
-# AppliedStatistics
+# Applied Statistics
 ### Applied Statistics using Python demonstrated with an use-case
 
 #### This project uses Plotting distribution, Visualization and Hypothesis Testing to validate statistical evidence and leverage information to make effective decisions 
